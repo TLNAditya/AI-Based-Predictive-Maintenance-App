@@ -1,10 +1,7 @@
-setuptools
-pandas
-numpy
 Flask
 flask-cors
 joblib
 scikit-learn
-logging
-os-sys
+pandas
+numpy
 gunicorn
